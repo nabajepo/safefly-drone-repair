@@ -1,16 +1,43 @@
-# React + Vite
+# SafeFly Drone Repair
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+SafeFly Drone Repair is a high-fidelity interactive prototype created for the course **SEG3525 – User Interface Design and Analysis** at the University of Ottawa.
 
-Currently, two official plugins are available:
+## Service Type
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+**Drone Repair & Inspection Services**
 
-## React Compiler
+SafeFly Drone Repair offers professional drone repair, battery replacement, camera repair, and flight inspection services through a simple appointment booking interface.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Main Features
 
-## Expanding the ESLint configuration
+- Responsive navigation bar
+- Hero section with service branding
+- Service cards with images
+- Interactive appointment booking form
+- Booking confirmation message
+- Contact information section
+- Footer with designer attribution
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Technologies Used
+
+- React
+- JavaScript
+- Bootstrap
+- CSS
+- Vite
+
+## Services Included
+
+- Drone Repair
+- Battery Replacement
+- Camera Repair
+- Flight Inspection
+
+## Designer
+
+Designed by **Jean Philippe Nahimana Bahenda**
+
+## Course Context
+
+This project was developed for **Assignment 2** in SEG3525.  
+The goal was to apply a user-centered design approach to create a high-fidelity prototype for a service-based business website.
